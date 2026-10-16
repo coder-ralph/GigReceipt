@@ -83,3 +83,7 @@ Do not expose an unauthenticated Ollama proxy to the public internet.
 Hacktoberfest 2026 — Week 2: Side Hustle challenge.
 
 This project is an MVP in development. Extraction quality depends on receipt image quality and the selected model. Users should verify all extracted amounts and dates.
+
+### License
+
+MIT — see [LICENSE](LICENSE).
